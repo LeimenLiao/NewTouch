@@ -1,6 +1,6 @@
 >DECIMAL_CS_VERSION=67
 // (0001) - Bluetooth device address
-&BDADDR = 7E61 BC20 F46A
+&BDADDR = B6D4 BC20 F46A
 // (0002) - Crystal frequency trim
 &CRYSTAL_FTRIM = 0031
 // (0005) - UART connection speed
