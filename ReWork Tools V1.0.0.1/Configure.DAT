@@ -1,0 +1,22 @@
+[Administrator]
+Owner=Adonit 2014
+Password=00000000
+[Manufacturer Config Information]
+Vendor Name=
+Project Name=NewTouch_20140612_v1.04
+Release Date=2014/06/25
+Manufacture Counter=0
+[TI Configuration]
+Checksum=62fb6606a242be06e3aee7ce4b319f80
+[CSR Configuration]
+SDK Ver=0
+EEPROM Start Address=6000
+EEPROM Size=600
+LAP=7E60
+UAP=BC20  
+NAP=F46A
+BTDADD ROM Address=0038
+Serial Number=32227
+SN ROM Address=600A
+DATE ROM Address=6036
+Checksum=0057d0c6e09e03bee5715abe8a13a324

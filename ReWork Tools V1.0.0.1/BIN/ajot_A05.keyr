@@ -1,0 +1,22 @@
+>DECIMAL_CS_VERSION=67
+// (0001) - Bluetooth device address
+&BDADDR = 7E60 BC20 F46A
+// (0002) - Crystal frequency trim
+&CRYSTAL_FTRIM = 0031
+// (0005) - UART connection speed
+&UART_RATE = 01d9
+// (0006) - UART configuration
+&UART_CONFIG = 0000
+// (0007) - Transmit power level
+&TX_POWER_LEVEL = 0007
+// (000c) - Sleep mode
+&SLEEP_MODE = 0001
+//&nvm_start_address = f000 // Default value(in hex) for a 512kbit EEPROM
+//&nvm_size = 40            // Default value(in hex) for a 512kbit EEPROM
+
+//&nvm_start_address = 7F80 // Value(in hex) for a 256kbit EEPROM
+//&nvm_size = 40            // Number of words(in hex) for 256kbit EEPROM
+
+&nvm_start_address = 6000 // Value(in hex) for a 128kbit EEPROM
+&nvm_size = 600            // Number of words(in hex) for 128kbit EEPROM
+
